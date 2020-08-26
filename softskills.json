@@ -132,5 +132,21 @@
       "linkedin": "https://www.facebook.com/dimkatramp",
       "facebook": "https://www.linkedin.com/in/dmytro-danchevskyi-621408116/"
     }
+  ],
+  "reservCards": [
+    {
+      "type": "just",
+      "title": "JUST",
+      "description": "Ціна вказана за всі модулі програми та матеріали курсу. При купівлі індивідуального пакету.",
+      "price": 8500,
+      "link": "https://softskillsacademy545299.typeform.com/to/YjQ0cE"
+    },
+    {
+      "type": "friends",
+      "title": "FRIENDS",
+      "description": "Ціна вказана за всі модулі програми та матеріали курсу. При купівлі групою, більше 3х квитків, знижка 1500грн на особу",
+      "price": 7000,
+      "link": "https://softskillsacademy545299.typeform.com/to/YjQ0cE"
+    }
   ]
 }
