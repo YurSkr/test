@@ -28,9 +28,7 @@
     "Project та Product Manager",
     "Team Lead та Head of Department"
   ],
-  "program": {
-    "title": "ПРОГРАМА КУРСУ",
-    "items": [
+  "programItems": [
       {
         "title": "Leadership",
         "images": [
@@ -99,8 +97,7 @@
           }
         ]
       }
-    ]
-  },
+    ],
   "information": {
     "start": "Старт: 3 березня 2020",
     "duration": "Курс триває 6 тижнів (по 2 заняття в тиждень)",
